@@ -1,0 +1,8 @@
+flet
+requests
+yfinance
+web3<6
+eth-account
+pytoniq
+bcrypt
+cryptography

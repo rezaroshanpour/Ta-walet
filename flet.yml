@@ -1,0 +1,11 @@
+# flet.yml
+
+project: taram_wallet
+version: 1.0.0
+display_name: Taram Wallet
+description: A secure and comprehensive crypto wallet.
+
+# --- Android Specific Configuration ---
+package_name: com.taram.wallet
+permissions:
+  - INTERNET # برای دسترسی به APIهای قیمت و ارسال ایمیل
