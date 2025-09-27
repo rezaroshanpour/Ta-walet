@@ -4,5 +4,5 @@ yfinance==0.2.37
 web3==5.31.3
 eth-account==0.5.9
 pytoniq==0.1.13
-bcrypt==4.1.2
+bcrypt==4.2.0
 cryptography==42.0.5
