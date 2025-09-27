@@ -9,3 +9,4 @@ description: A secure and comprehensive crypto wallet.
 package_name: com.taram.wallet
 permissions:
   - INTERNET # برای دسترسی به APIهای قیمت و ارسال ایمیل
+assets_dir: assets
