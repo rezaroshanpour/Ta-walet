@@ -1,4 +1,4 @@
-flet==0.22.0
+flet==0.21.2
 requests==2.31.0
 yfinance==0.2.37
 web3==5.31.3
