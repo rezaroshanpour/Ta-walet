@@ -1,8 +1,8 @@
-flet
-requests
-yfinance
-web3<6
-eth-account
-pytoniq
-bcrypt
-cryptography
+flet==0.22.0
+requests==2.31.0
+yfinance==0.2.37
+web3==5.31.3
+eth-account==0.5.9
+pytoniq==0.1.13
+bcrypt==4.1.2
+cryptography==42.0.5
